@@ -1,11 +1,8 @@
-# ES添削ツール
-
+## ES添削ツール
 生成AIを使って、就活のエントリーシートを添削するWebアプリです。
-
-公開URL: https://（あなたのURL）.streamlit.app
+公開URL: https://es-checker-jf87khgtnj4nfg8ng38tth.streamlit.app/
 
 ## 作った背景
-
 就活でESを書く際、自分では良し悪しを判断しづらく、
 第三者に見てもらうにも時間がかかるという課題がありました。
 生成AIに面接官の視点で評価させることで、
